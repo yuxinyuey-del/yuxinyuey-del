@@ -4,7 +4,7 @@
 
 International Relations student at Ritsumeikan University, Kyoto. I build tools to solve problems I run into at work and in student life.
 
-🌏 日本語 / English / 中文
+🌏 日本語 / English / 中文 /　Malay
 
 ## 作ったもの
 
